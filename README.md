@@ -5,13 +5,13 @@ Training Resources will be placed here.
 
 For labs, you can use the below resources
 
-https://labs.play-with-docker.com 
+1.https://labs.play-with-docker.com 
 
-https://katacoda.com/
+2.https://katacoda.com/
 
-AWS EC2 Instance
+3.AWS EC2 Instance
 
-Azure VM
+4.Azure VM
 
 Docker Complete Reference - https://github.com/wsargent/docker-cheat-sheet
 
