@@ -13,3 +13,6 @@ AWS EC2 Instance
 
 Azure VM
 
+Docker Reference - https://github.com/docker/labs/tree/master/beginner
+
+Dockerfile sample application - https://github.com/kodekloudhub/webapp-color
